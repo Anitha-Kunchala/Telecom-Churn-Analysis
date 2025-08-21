@@ -14,7 +14,7 @@ The goal is to identify churn patterns, understand customer behavior, and provid
 
 
 ##  Dashboard Preview
-<a href= "https://github.com/Anitha-Kunchala/Telecom-Churn-Analysis/blob/main/Screenshot%202025-08-20%20135931.png">view Dashboard </a>
+<a href= "https://github.com/Anitha-Kunchala/Telecom-Churn-Analysis/blob/main/Screenshot%202025-08-21%20083436.png">view Dashboard </a>
 
 
 
